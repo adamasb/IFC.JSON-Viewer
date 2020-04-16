@@ -16,10 +16,7 @@
     "JSON",
     "BIM"
   ],
-  "author": {
-    "name": "Dennis Shelden",
-    "email": "sheldd@rpi.edu"
-  },
+  "author": "Dennis Shelden <sheldd@rpi.edu>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dennisrshelden/IFC.JSON-Viewer/issues"
